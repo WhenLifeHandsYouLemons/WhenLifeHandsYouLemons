@@ -5,6 +5,8 @@ I'm a student who is passionate about technology and software development. My ho
 
 [sooraj.dev](https://github.com/WhenLifeHandsYouLemons/sooraj.dev "Repository link"): [![pages-build-deployment](https://github.com/WhenLifeHandsYouLemons/sooraj.dev/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/WhenLifeHandsYouLemons/sooraj.dev/actions/workflows/pages/pages-build-deployment)
 
+[Project Arch](https://github.com/WhenLifeHandsYouLemons/pa "Repository link"): [![pages-build-deployment](https://github.com/WhenLifeHandsYouLemons/pa/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/WhenLifeHandsYouLemons/pa/actions/workflows/pages/pages-build-deployment)
+
 [CSI](https://github.com/WhenLifeHandsYouLemons/CSI "Repository link"): [![pages-build-deployment](https://github.com/WhenLifeHandsYouLemons/CSI/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/WhenLifeHandsYouLemons/CSI/actions/workflows/pages/pages-build-deployment)
 
 [extramaths](https://github.com/WhenLifeHandsYouLemons/extramaths "Repository link"): [![Upload Python Package](https://github.com/WhenLifeHandsYouLemons/extramaths/actions/workflows/python-publish.yml/badge.svg)](https://github.com/WhenLifeHandsYouLemons/extramaths/actions/workflows/python-publish.yml)
