@@ -1,5 +1,44 @@
-# About Me
+# Hi there! 👋
+
+## About Me
+
 I'm a student who is passionate about technology and software development. My hobbies include 3D modelling, coding, and more.
+
+- 🌟 Constantly trying new technologies and frameworks.
+- 🚀 Exploring the realms of Python app/game/package development.
+- 🤖 Open to collaborating on fascinating, open-source projects.
+
+## Skills & Tools
+
+```yaml
+languages: [Python, HTML/CSS, Java, C]
+tools: [Git, Visual Studio Code, Figma]
+databases: [MySQL, SQLite]
+```
+
+## GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=WhenLifeHandsYouLemons&color=blue&style=flat)
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WhenLifeHandsYouLemons&ring_color=00ff00&custom_title=Statistics&show_icons=true&rank_icon=github&theme=dark)](https://github.com/WhenLifeHandsYouLemons)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhenLifeHandsYouLemons&theme=dark&hide=powershell&lang_count=6)](https://github.com/WhenLifeHandsYouLemons)
+
+## Interests
+
+- 🎮 Gaming - Tabletop games and a few PC games!
+- 📸 Photography - Capturing just about anything that looks cool.
+- 💻 3D Rendering - Experimenting with new features and making stuff along the way!
+
+## Get in Touch
+
+📧 [Email](mailto:developer.soorajs@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/soorajsannabhadti/)  
+🐦 [Twitter](https://twitter.com/lemonshandyou)
+
+Feel free to browse through my repositories and drop a message! 😊
+
+---
 
 ## Actions Status
 
