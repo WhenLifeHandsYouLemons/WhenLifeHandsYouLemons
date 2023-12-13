@@ -22,8 +22,6 @@ databases: [MySQL, SQLite]
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=WhenLifeHandsYouLemons&ring_color=00ff00&custom_title=Statistics&show_icons=true&rank_icon=github&theme=dark)](https://github.com/WhenLifeHandsYouLemons)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WhenLifeHandsYouLemons&theme=dark&hide=powershell&lang_count=6)](https://github.com/WhenLifeHandsYouLemons)
-
 ## Interests
 
 - 🎮 Gaming - Tabletop games and a few PC games!
