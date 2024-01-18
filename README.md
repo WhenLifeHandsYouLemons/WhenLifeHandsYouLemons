@@ -8,14 +8,6 @@ I'm a student who is passionate about technology and software development. My ho
 - 🚀 Exploring the realms of Python app/game/package development.
 - 🤖 Open to collaborating on fascinating, open-source projects.
 
-## Skills & Tools
-
-```yaml
-languages: [Python, HTML/CSS, Java, C]
-tools: [Git, Visual Studio Code, Figma]
-databases: [MySQL, SQLite]
-```
-
 ## GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=WhenLifeHandsYouLemons&color=blue&style=flat)
