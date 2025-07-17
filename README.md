@@ -15,4 +15,12 @@ Specifically, I'm interested in **software development**, **game development**, 
 
 <br>
 
-<!-- "Imagination is the discovering faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science." - Ada Lovelace -->
+---
+
+<p align=center>"Imagination is the discovering faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science."</p>
+<p align=center>Ada Lovelace</p>
+
+
+<!-- <p align=center><a href="https://quotes.sooraj.dev/ada_lovelace/">Ada Lovelace</a></p>
+
+"Imagination is the discovering faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science. It is that which feels & discovers what is, the  real which we see not, which  exists not for our  senses. Those who have learned to walk on the threshold of the unknown worlds, by means of what are commonly termed par excellence  the exact sciences, may then with the fair white wings of Imagination hope to soar further into the unexplored amidst which we live." -->
