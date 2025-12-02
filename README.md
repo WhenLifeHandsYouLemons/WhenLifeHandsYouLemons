@@ -4,14 +4,20 @@ My name is Sooraj and I'm a student who is passionate about technology and softw
 
 Specifically, I'm interested in **software development**, **game development**, and **applying AI/ML** to improve everyday life and help make the world a better place through technology.
 
-<div>
-    <a style="text-decoration:none" href="https://sooraj.dev/">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=WhenLifeHandsYouLemons&ring_color=00ff00&custom_title=Statistics&show_icons=true&rank_icon=github&hide_rank=true&theme=dark" />
-    </a>
-    <a style="text-decoration:none" href="https://sooraj.dev/">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhenLifeHandsYouLemons&layout=compact&langs_count=8&card_width=320&hide=Tcl,cmake,html&theme=dark&hide_progress=true" />
-    </a>
-</div>
+<table align="center" cellspacing="20" cellpadding="0" border="0" style="border: none;">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://sooraj.dev/">
+        <img height="200" border="0" src="https://github-readme-stats-chi-jet-35.vercel.app/api?username=WhenLifeHandsYouLemons&ring_color=00ff00&custom_title=Statistics&show_icons=true&rank_icon=github&hide_rank=true&theme=dark" alt="Statistics" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://sooraj.dev/">
+        <img height="200" border="0" src="https://github-readme-stats-chi-jet-35.vercel.app/api/top-langs/?username=WhenLifeHandsYouLemons&layout=compact&langs_count=8&hide=Tcl,cmake&card_width=320&theme=dark&hide_progress=true" alt="Top languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
