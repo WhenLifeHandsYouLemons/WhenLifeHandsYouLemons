@@ -1,8 +1,8 @@
 # Hey there! 👋
 
-My name is Sooraj and I'm a student who is passionate about technology and software development. My hobbies include 3D modelling, coding, photography, and more. You can view all of my work and other stuff on my personal website: [sooraj.dev](https://sooraj.dev/).
+My name is Sooraj and I'm a student who's passionate about technology and software development. My hobbies include 3D modelling, coding, photography, and more. Specifically, I'm interested in **software development**, **game development**, and **applying AI/ML** to improve everyday life and help make the world a better place through technology.
 
-Specifically, I'm interested in **software development**, **game development**, and **applying AI/ML** to improve everyday life and help make the world a better place through technology.
+You can view all of my professional work and side projects on my personal website: [sooraj.dev](https://sooraj.dev/).
 
 <table align="center" cellspacing="20" cellpadding="0" border="0" style="border: none;">
   <tr>
